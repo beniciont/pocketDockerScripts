@@ -22,7 +22,9 @@ Siga estas etapas para configurar e usar os scripts Docker deste repositório:
 Antes de começar, certifique-se de ter os seguintes requisitos instalados em seu sistema:
 
 **-** Docker: [**Instalação do Docker**](**https://docs.docker.com/get-docker/**)
-**-** Git: [**Instalação do Git**](**https://git-scm.com/book/en/v2/Getting-Started-Installing-Git**
+**-** Git: [**Instalação do Git**](**https://git-scm.com/book/en/v2/Getting-Started-Installing-Git**`)
+
+**### Como Executar**
 
 Faça Download do script que desejar ou Clone o repositório para o seu ambiente local:
 
@@ -31,8 +33,6 @@ git clone https://github.com/beniciont/dockerScripts.git
 cd dockerScripts
 
 ```
-
-**### Como Executar**
 
 Acesse a pasta onde fez o download do Script ou Clone do repositório, liste os arquivos para verificar a presença do arquivo .sh:
 
