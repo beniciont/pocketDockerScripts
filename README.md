@@ -3,9 +3,8 @@
 ## Índice
 
 - [Descrição](#descrição)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Licença](#licença)
+- [Instruções](#instruções)
+- [Como Executar](#como-executar)
 - [Contato](#contato)
 
 ## Descrição
@@ -13,7 +12,7 @@
 Este repositório contém scripts Docker úteis para facilitar a administração de containers.
 
 
-## Instruções de Uso
+## Instruções
 
 Siga estas etapas para configurar e usar os scripts Docker deste repositório:
 
