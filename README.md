@@ -4,34 +4,34 @@
 
 - [Descrição](#descrição)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [Scripts Disponíveis](#scripts-disponíveis)
-- [Contribuição](#contribuição)
+- [Uso](#isntruções-de-uso)
 - [Licença](#licença)
 - [Contato](#contato)
 
 ## Descrição
+
+Este repositório contém scripts Docker úteis para facilitar a administração de containers.
 
 
 ## Instruções de Uso
 
 Siga estas etapas para configurar e usar os scripts Docker deste repositório:
 
-**### Pré-requisitos**
+
+### Pré-requisitos
 
 Antes de começar, certifique-se de ter os seguintes requisitos instalados em seu sistema:
 
 **-** Docker: [**Instalação do Docker**](**https://docs.docker.com/get-docker/**)
 **-** Git: [**Instalação do Git**](**https://git-scm.com/book/en/v2/Getting-Started-Installing-Git**`)
 
-**### Como Executar**
+### Como Executar
 
 Faça Download do script que desejar ou Clone o repositório para o seu ambiente local:
 
 ```bash
 git clone https://github.com/beniciont/dockerScripts.git
 cd dockerScripts
-
 ```
 
 Acesse a pasta onde fez o download do Script ou Clone do repositório, liste os arquivos para verificar a presença do arquivo .sh:
@@ -54,10 +54,9 @@ Você pode então executar qualquer script usando:
 ./script.sh
 ```
 
-## Contribuições
+## Contato
 
-1. Faça um fork do projeto.
-1. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
-1. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`).
-1. Faça push para a branch (`git push origin feature/nova-feature`).
-1. Abra um Pull Request.
+Benicio Neto - [benicio.neto@outlook.com.br]()
+
+Link para o projeto: [https://github.com/beniciont/dockerScripts](https://github.com/beniciont/dockerScripts)
+
