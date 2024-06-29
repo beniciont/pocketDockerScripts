@@ -4,7 +4,7 @@
 
 - [Descrição](#descrição)
 - [Instalação](#instalação)
-- [Uso](#isntruções-de-uso)
+- [Uso](#uso)
 - [Licença](#licença)
 - [Contato](#contato)
 
