@@ -11,11 +11,9 @@
 
 Este repositório contém scripts Docker úteis para facilitar a administração de containers.
 
-
 ## Instruções
 
 Siga estas etapas para configurar e usar os scripts Docker deste repositório:
-
 
 ### Pré-requisitos
 
@@ -55,7 +53,9 @@ Você pode então executar qualquer script usando:
 
 ## Contato
 
-Benicio Neto - [benicio.neto@outlook.com.br]()
+Benicio Neto
 
-Link para o projeto: [https://github.com/beniciont/dockerScripts](https://github.com/beniciont/dockerScripts)
+[![Outlook](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:benicio.neto@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/benicio-neto/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beniciont)
 
