@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Parar todos os contêineres
 docker stop $(docker ps -a -q)
