@@ -27,8 +27,8 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados em se
 Faça Download do script que desejar ou Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/beniciont/dockerScripts.git
-cd dockerScripts
+git clone https://github.com/beniciont/pocketDockerScripts.git
+cd pocketDockerScripts
 ```
 
 Acesse a pasta onde fez o download do Script ou Clone do repositório, liste os arquivos para verificar a presença do arquivo .sh:
